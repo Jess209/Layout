@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desarrollo Movil Multiplataforma", "Desarrollo Movil Multiplataforma.csproj", "{7916F274-3419-454C-9194-36F3AEBD6837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7916F274-3419-454C-9194-36F3AEBD6837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7916F274-3419-454C-9194-36F3AEBD6837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7916F274-3419-454C-9194-36F3AEBD6837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7916F274-3419-454C-9194-36F3AEBD6837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99D236F2-15B8-46AC-A389-4EE6055FAC90}
+	EndGlobalSection
+EndGlobal
